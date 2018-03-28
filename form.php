@@ -1,5 +1,10 @@
 <?php include('form_process.php'); ?>
 <link rel="stylesheet" href="form.css" type="text/css">
+
+<h2><a href="http://www.affariint.com/index.html">  <--Back</a></h2>
+
+
+
 <div class="container">  
   <form id="contact" action="<?= htmlspecialchars($_SERVER["PHP_SELF"]) ?>" method="post">
     <h3>Contact</h3>

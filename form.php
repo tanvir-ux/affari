@@ -1,12 +1,34 @@
 <?php include('form_process.php'); ?>
+<link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css" type="text/css">
+<!-- <link rel="stylesheet" href="assets/font-awesome-4.7.0/css/font-awesome.min.css" type="text/css"> -->
+
+<script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
+
 <link rel="stylesheet" href="form.css" type="text/css">
 
-<h2><a href="http://www.affariint.com/index.html">  <--Back</a></h2>
+
+ <div >
+   
+ </div>
+
 
 
 
 <div class="container">  
-  <form id="contact" action="<?= htmlspecialchars($_SERVER["PHP_SELF"]) ?>" method="post">
+  
+  <h3>
+     <a href="http://www.affariint.com" class="anchor">
+       <i class="fas fa-arrow-left"></i>
+       Back
+      </a>
+     
+   </h3>
+
+  <div class="row">
+    
+  
+  <div class="my-form">
+    <form id="contact" action="<?= htmlspecialchars($_SERVER["PHP_SELF"]) ?>" method="post">
     <h3>Contact</h3>
     <h4>Contact us today, and get reply with in 24 hours!</h4>
     <fieldset>
@@ -34,4 +56,16 @@
     </fieldset>
     <div class="success"><?= $success ?></div>
   </form>
+  </div>
+
+  <div class="image">
+    <img src="assets/img/ananta_slider/worker.jpg">
+  </div>
+
+  
+
+
+
 </div>
+</div>
+

@@ -60,7 +60,7 @@ a.anchor:visited{
 	width:100%;
 	margin:0 auto;
 	position:relative;
-	overflow: hidden;
+	
 }
 
 .container .my-form {
@@ -79,14 +79,17 @@ a.anchor:visited{
     z-index: -1;
 }
 
-.container .my-location{
-	position: relative;
-	z-index: 3;
-	width: 100%;
-	
-
+.container .my-location {
+    position: absolute;
+    bottom: -46%;
+    left: 30.5%;
+    padding: 5%;
+    height: 350px;
+    z-index: 3;
+    width: 501px;
+    background: darkslateblue;
+    color: antiquewhite;
 }
-
 
 
 

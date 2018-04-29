@@ -67,24 +67,24 @@
                 </address>
 
      <div class="rumman">
-       <div class="headline"><h2>Shahadat Hossain Rumman</h2></div> 
-       <h3>Chairman</h3>
-       <p><strong>+880170705544</strong></p>
+       <h4><strong>Shahadat Hossain Rumman</strong></h4>
+       <h5>Chairman</h5>
+       <p><strong>Phone: +880170705544</strong></p>
      </div> 
      <div class="jishan">
-       <div class="headline"><h2>Saif Alam</h2></div> 
-       <h4>Director,Commercial</h4>
-       <p><strong>+880167057099</strong></p>
+       <h4><strong>Saif Alam</strong></h4>
+       <h5>Director, Commercial</h5>
+       <p><strong>Phone: +880167057099</strong></p>
      </div> 
      <div class="mustafa">
-       <div class="headline"><h2>Golam Mustafa Miron</h2></div> 
-       <h4>Managing Director</h4>
-       <p><strong>+8801748713042</strong></p>
+       <h4><strong>Golam Mustafa Miron</strong></h4>
+       <h5>Managing Director</h5>
+       <p><strong>Phone: +8801748713042</strong></p>
      </div> 
      <div class="pavel">
-       <div class="headline"><h2>H M Pavel</h2></div> 
-       <h4>Director,Marketing</h4>
-       <p><strong>+8801713016346</strong></p>
+       <h4><strong>H M Pavel</strong></h4> 
+       <h5>Director, Marketing</h5>
+       <p><strong>Phone: +8801713016346</strong></p>
      </div>           
 
 

@@ -56,20 +56,42 @@
   </div>
 
   <div class="image">
-    <img src="assets/img/ananta_slider/worker.jpg">
+    <img src="assets/img/ananta_slider/contact.jpg">
   </div>
 
   <div class="my-location">
     <div class="headline"><h2>Office</h2></div> 
                 <address class="md-margin-bottom-40">
                     <p><strong>Dhaka Factory Office</strong><br />177/1, Road#6,South Bishil, Mirpur-1<br />Dhaka, Bangladesh.<br />Phone: +8801707055444<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />Email:&nbsp;<a href="mailto:affariint.bd@gmail.com">affariint.bd@gmail.com&nbsp;</a><br />Web:&nbsp;<a href="http://affariint.com" target="">www.affariint.com</a><br />FB:&nbsp;<a href="https://www.facebook.com/" target="_blank">Affariint</a></p>
-<p><br /><strong>Head Office</strong><br />20,Kunipara,Tejgaon I/A ,Dhaka-1208<br />      </address>
+                    <p><br /><strong>Head Office</strong><br />20,Kunipara,Tejgaon Industrial Area ,Dhaka-1208<br />  
+                </address>
+
+     <div class="rumman">
+       <div class="headline"><h2>Shahadat Hossain Rumman</h2></div> 
+       <h3>Chairman</h3>
+       <p><strong>+880170705544</strong></p>
+     </div> 
+     <div class="jishan">
+       <div class="headline"><h2>Saif Alam</h2></div> 
+       <h4>Director,Commercial</h4>
+       <p><strong>+880167057099</strong></p>
+     </div> 
+     <div class="mustafa">
+       <div class="headline"><h2>Golam Mustafa Miron</h2></div> 
+       <h4>Managing Director</h4>
+       <p><strong>+8801748713042</strong></p>
+     </div> 
+     <div class="pavel">
+       <div class="headline"><h2>H M Pavel</h2></div> 
+       <h4>Director,Marketing</h4>
+       <p><strong>+8801713016346</strong></p>
+     </div>           
+
+
   </div>
 
-  
-
-
-
-
 </div>
+
+
+  
 

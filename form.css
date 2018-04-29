@@ -80,17 +80,84 @@ a.anchor:visited{
 }
 
 .container .my-location {
-    position: absolute;
-    bottom: -46%;
-    left: 30.5%;
+  position: absolute;
+    bottom: -78%;
+    left: 15.5%;
     padding: 5%;
-    height: 350px;
+    height: 564px;
     z-index: 3;
-    width: 501px;
-    background: darkslateblue;
-    color: antiquewhite;
+    width: 76%;
+    background: darkgray;
+    color: white;
 }
 
+
+
+.container .my-location a{
+	color: white;
+	font-size: 12px;
+}
+
+div.rumman{
+	position: absolute;
+    left: 375px;
+    top: 52px;
+}
+div.jishan{
+	position: absolute;
+    left: 50px;
+    top: 347px;
+}
+div.mustafa{
+	position: absolute;
+    left: 375px;
+    top: 224px;
+}
+div.pavel{
+	position: absolute;
+    left: 375px;
+    top: 352px;
+}
+
+
+@media  (max-width: 600px) {
+
+	.container .my-location{
+	bottom: -129%;
+    left: 2.5%;
+    padding: 5%;
+    height: 900px;
+    z-index: 3;
+    width: 70%;
+    background: darkgray
+	}
+
+	div.rumman {
+   position: absolute;
+    left: 30px;
+    top: 287px;
+	}
+
+	div.jishan{
+	position: absolute;
+    left: 30px;
+    top: 450px;
+	}
+	div.mustafa{
+	position: absolute;
+    left: 30px;
+    top: 574px;
+	}
+	div.pavel{
+	position: absolute;
+    left: 30px;
+    top: 710px;
+	}
+
+
+
+
+}
 
 
 

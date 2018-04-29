@@ -59,7 +59,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
           $message_body .=  "$key: $value\n";
       }
       
-      $to = 'tanviralamshuvo@gmail.com';
+      $to = 'affariint.bd@gmail.com ';
       $subject = "new mail from ".$name.".\n\n".$message;
       $headers = "From: ".$email;
       $txt = "Phone: ".$phone."\n\n".$message;
